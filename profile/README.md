@@ -6,7 +6,7 @@
 
 Our mission: Bring Simple, Secure, Smart AI to individuals and businesses.
 
-**Contact Us:** [contact@anylearning.co](contact@anylearning.co).
+**Contact Us:** [anylearning@nrl.ai](anylearning@nrl.ai).
 
 ![AnyLearning Studio](https://github.com/user-attachments/assets/187caf9e-9a1e-485f-8727-6f275a4c9343)
 
