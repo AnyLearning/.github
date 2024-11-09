@@ -1,6 +1,3 @@
-
-<img width=84 src="https://github.com/user-attachments/assets/6f6824a9-634d-4c78-91a4-588ede7ed79d"/>
-
 # AnyLearning
 
 **Simple, Secure, Smart AI for All**
